@@ -1,0 +1,6 @@
+﻿  multiprocessing.c
+  semaphore.c
+     Creando biblioteca C:\cpython\PCbuild\amd64\_multiprocessing.lib y objeto C:\cpython\PCbuild\amd64\_multiprocessing.exp
+  Generando código
+  Generación de código finalizada
+  _multiprocessing.vcxproj -> C:\cpython\PCbuild\amd64\_multiprocessing.pyd

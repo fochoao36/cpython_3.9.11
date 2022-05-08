@@ -1,0 +1,8 @@
+﻿  python3dll.c
+  Updating python3stub.def
+  Rebuilding python3stub.lib
+     Creando biblioteca C:\cpython\PCbuild\amd64\python3stub.lib y objeto C:\cpython\PCbuild\amd64\python3stub.exp
+     Creando biblioteca C:\cpython\PCbuild\amd64\python3.lib y objeto C:\cpython\PCbuild\amd64\python3.exp
+  Generando código
+  Generación de código finalizada
+  python3dll.vcxproj -> C:\cpython\PCbuild\amd64\python3.dll

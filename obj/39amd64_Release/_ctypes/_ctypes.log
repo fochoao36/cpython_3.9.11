@@ -1,0 +1,10 @@
+﻿  _ctypes.c
+  callbacks.c
+  callproc.c
+  cfield.c
+  malloc_closure.c
+  stgdict.c
+     Creando biblioteca C:\cpython\PCbuild\amd64\_ctypes.lib y objeto C:\cpython\PCbuild\amd64\_ctypes.exp
+  Generando código
+  Generación de código finalizada
+  _ctypes.vcxproj -> C:\cpython\PCbuild\amd64\_ctypes.pyd
